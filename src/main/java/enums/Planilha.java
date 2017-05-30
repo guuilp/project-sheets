@@ -2,7 +2,8 @@ package enums;
 
 public enum Planilha {
     ID("1elZcOV56qmF-ZPm1xIstKzk9zwAoUMfQvuQCVx1u_RE"),
-    INPUT_OPTION("RAW");
+    INPUT_OPTION("RAW"),
+    ABA("Sheet1");
 
     private final String planilha;
 
